@@ -1,0 +1,15 @@
+{
+  "name": "relearn",
+  "version": "1.0.0",
+  "description": "relearn all",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "webpack": "./node_modules/.bin/webpack.cmd"
+  },
+  "author": "YiJiong",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^3.10.0"
+  }
+}
